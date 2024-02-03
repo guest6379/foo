@@ -17,3 +17,7 @@ func Hey() {
 	fmt.Println("hey")
 	fmt.Println("hey")
 }
+
+func Morning() {
+	fmt.Println("good morning")
+}
