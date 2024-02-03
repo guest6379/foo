@@ -15,4 +15,5 @@ func Hello() {
 // println hey
 func Hey() {
 	fmt.Println("hey")
+	fmt.Println("hey")
 }
