@@ -1,3 +1,3 @@
-module github.com/guest6379/foo
+module foo
 
 go 1.21
