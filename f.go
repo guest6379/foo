@@ -11,3 +11,8 @@ func Hi() {
 func Hello() {
 	fmt.Println("hello")
 }
+
+// println hey
+func Hey() {
+	fmt.Println("hey")
+}
